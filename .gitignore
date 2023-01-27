@@ -1,5 +1,14 @@
+
+
+
 .DS_Store
 .idea
+# to ignore a directory use:
+/Data
+
+# to ignore a single file use:
+BF_w1_z3.tif
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
